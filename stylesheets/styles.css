@@ -96,7 +96,6 @@ img {
 }
 
 header {
-  background-color: #ff0000;
   width:270px;
   float:left;
   position:fixed;
@@ -161,6 +160,7 @@ header ul a strong {
 }
 
 section {
+  background-color: #ccc;
   width:500px;
   float:right;
   padding-bottom:50px;
