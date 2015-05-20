@@ -1,0 +1,42 @@
+body{
+	background-color: #16181A;
+	font-family: sans-serif;
+	margin:40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 18px;
+	color: #C7D0D9;
+	padding: 0 10px;
+}
+
+h1,h2,h3 {
+	color: #3FB4C5;
+	line-height: 1.2;
+}
+
+hr {
+	width: 80%;
+}
+
+a {
+	color: #F86F50;
+	font-style:italic;
+	text-decoration: none;
+}
+	
+::selection {
+	color: #B3CC57;
+	background-color: #424C55;
+}
+
+.title {
+	color: #3FB4C5;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.2;
+}
+	
+.date {
+	padding-left: 20px;
+	color: #424C55;
+}
